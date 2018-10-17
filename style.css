@@ -1,5 +1,7 @@
-body { font-family: sans-serif; background-color: Red;}
-h1{color: Yellow; text-align: center;}
+body { font-family: serif; background-color: Red;}
+h1{color: Yellow; text-align: center; font-family: serif;}
 h2 {color: Yellow;}
 hr{color: Green;}
+th{ font-family: serif; width: 15px;}
+td img{border: medium solid yellow;}
 
