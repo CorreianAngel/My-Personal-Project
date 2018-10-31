@@ -3,10 +3,16 @@ h1{color: yellow; text-align: center; font-family: serif;}
 h2 {color: yellow; border: medium solid yellow; width: 20%}
 h3{color: yellow; font-family: serif;}
 hr{color: yellow;}
-th{ font-family: serif; width: 15px;} 
-td img{border: medium solid yellow;}
+table { width: 100%; text-align: center; }
+a:link{ color: yellow; padding-right: 0px;}
+a:visited{ color: yellow;} 
+a:hover{color: red;}
+a:active{color: blue;}
+img:hover{border: medium solid red; }
+img:active{border: medium solid blue;}
+td img{border: medium solid yellow; }
 
 
 
-/* note may want to a background image/ background-image url("image");*/
+
 
