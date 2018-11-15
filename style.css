@@ -11,7 +11,7 @@ a:active{color: blue;}
 img:hover{border: medium solid red; }
 img:active{border: medium solid blue;}
 td img{border: medium solid yellow; }
-
+input{border: medium solid #000080;}
 
 
 
